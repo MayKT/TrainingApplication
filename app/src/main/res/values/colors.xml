@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTextColorPrimary">#313131</color>
+    <color name="colorTextColorSecondary">#848484</color>
+    <color name="color_edt_grey">#eeeeee</color>
+    <color name="color_white_press">#bcbbbb</color>
+    <color name="color_black_trans">#4D000000</color>
+    <color name="color_white_trans">#F2ffffff</color>
+    <color name="color_background">#FAFAFA</color>
+
+    <color name="colorTransparentLightBlue">#800084FF</color>
+    <color name="colorLightBlue">#0084FF</color>
+    <color name="colorDeepBlue">#1B6CB7</color>
+    <color name="colorOrange">#F39840</color>
+    <color name="colorGrey">#848484</color>
+    <color name="colorTransparentGrey">#F4F4F4</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorTransparentBlack">#80000000</color>
+    <color name="color_disable_blue">#C9DCF0</color>
+    <color name="color_green">#0BE313</color>
+
+
+    <color name="color_view_divider">#DDDDDD</color>
+    <color name="color_news_detail_bg">#F1F1F1</color>
+    <color name="color_seek_bar">#AAAAAA</color>
+    <color name="color_edt_grey_dark">#dddddd</color>
+    <color name="color_seekbar">#AAAAAA</color>
+
+    <color name="plateRed">#E02929</color>
+    <color name="plateBlue">#29A4E0</color>
+</resources>
